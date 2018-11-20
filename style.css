@@ -97,4 +97,8 @@
 	color: #000000;
 	transition-duration: 0.2s;
 }
-	
+.clearfix::after {
+	content: "";
+	clear: both;
+	display: table;
+}
