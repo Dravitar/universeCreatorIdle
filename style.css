@@ -14,9 +14,8 @@
 	max-width: 100%;
 }
 #parent atd {
-	min-width: 10%;
+	float: left;
 	width: 10%;
-	max-width: 10%;
 }
 .button {
 	background: #F2F2F2;
