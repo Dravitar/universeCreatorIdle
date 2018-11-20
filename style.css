@@ -74,6 +74,7 @@
 }
 .achievementnotachieved {
 	background: #A3A3A3;
+	float: left;
 	width: 10%;
 	line-height: 21px;
 	text-align: center;
@@ -87,6 +88,7 @@
 .achievementachieved {
 	color: #FFF;
 	background: #5AC467;
+	float: left;
 	width: 10%;
 	line-height: 21px;
 	text-align: center;
