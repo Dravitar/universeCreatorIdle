@@ -13,6 +13,11 @@
 	width: 100%;
 	max-width: 100%;
 }
+#parent atd {
+	min-width: 10%;
+	width: 10%;
+	max-width: 10%;
+}
 .button {
 	background: #F2F2F2;
 	height: auto;
