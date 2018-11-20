@@ -68,3 +68,29 @@
 	width: 180px;
 	height: 90px;
 }
+.achievementnotachieved {
+	background: #A3A3A3;
+	height: 50px;
+	line-height: 21px;
+	text-align: center;
+	width: 50px;
+	border: 1px solid #B84B5F;
+	border-radius: 4px;
+	padding: 5px;
+	color: #000000;
+	transition-duration: 0.2s;
+}
+.achievementachieved {
+	color: #FFF;
+	background: #5AC467;
+	height: 50px;
+	line-height: 21px;
+	text-align: center;
+	width: 50px;
+	border: 1px solid #127A20;
+	border-radius: 4px;
+	padding: 5px;
+	color: #000000;
+	transition-duration: 0.2s;
+}
+	
